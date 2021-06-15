@@ -1,5 +1,4 @@
-# readme-generator
-
+# Readme Generator
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,14 +14,14 @@
 
 
 ## Description
-Create a professional readme using node
+Create a professional readme
 
 ## Installation
 node index.js to run application
 
 ## Usage 
 
-Create a professional readme in seconds
+node index.js
 
 ## Contributing
 NA
